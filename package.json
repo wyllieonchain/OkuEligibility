@@ -1,0 +1,14 @@
+{
+  "name": "oku-eligibility",
+  "version": "1.0.0",
+  "description": "API wrapper for Icarus Tools Layer3 trades endpoint",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
+
