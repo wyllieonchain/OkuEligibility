@@ -29,7 +29,7 @@ export default async function handler(req, res) {
     }
 
     // Construct the Icarus Tools API URL
-    const icarusUrl = `https://accounts.icarus.tools/layer3/trades/288/1763655379/1808002000/49?address=${encodeURIComponent(address)}`;
+    const icarusUrl = `https://accounts.icarus.tools/layer3/trades/288/1763874000/1808002000/49?address=${encodeURIComponent(address)}`;
 
     // Make request to Icarus Tools API
     const response = await fetch(icarusUrl, {
